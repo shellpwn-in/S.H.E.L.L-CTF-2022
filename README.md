@@ -14,7 +14,7 @@ Challenges for SHELL CTF 2022
 | Forensics | [Audio Chall 1](Forensics/audio%20chall%201)                         | Ayush  |
 | Forensics | [Audio Chall 2](Forensics/audio%20chall%202)                         | Ayush  |
 | Forensics | [Forensics Chall 1](Forensics/forensics%20chall%201)                 | Ayush  |
-| OSINT     | [Blume1:The CTOS](OSINT/Blume1:The CTOS)                             | Rohan  |
+| OSINT     | [Blume1:The CTOS](OSINT/Blume1:The%20CTOS)                           | Rohan  |
 | Forensics | [Forensics Chall 2](Forensics/forensics%20chall%202)                 | Ayush  |
 | Pwn       | [Chall 1](pwn/chall1)                                                | Hamzah |
 | Reverse   | [How to defeat a dragon](rev/How%20to%20defeat%20a%20dragon)         | Rohan  |
