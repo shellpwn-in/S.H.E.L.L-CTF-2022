@@ -16,11 +16,12 @@ double func(int x)
     
     return 2 * sum;
 }
-void encrypt(char key[9]) // LOGBASEE
+
+void encrypt(char key[17]) // NATURALLOGARITHM
 {
-    double vals[8];
+    double vals[16];
     
-    for(int i = 0; i < 8; i++)
+    for(int i = 0; i < 16; i++)
     {
         vals[i] = func(key[i]);
         printf("%f ", vals[i]);
@@ -30,6 +31,6 @@ void encrypt(char key[9]) // LOGBASEE
 
 int main()
 {
-    char flag[39] = "dvkmluxj{E4mr0s5_s3j1i5_sQ_4_tAoC7a0r}";
+    char flag[39] = "fhxfcceq{H4el0i5_a3k1l5_aS_4_fNhT7i0y}";
     printf("%s\n%s\n%s\n", "alright here you go: ", flag, "wait, do you not want to know the key?");
 }
