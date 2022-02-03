@@ -6,6 +6,7 @@ Challenges for SHELL CTF 2022
 
 | Category | Challenge                                                            | 
 | -------- | -------------------------------------------------------------------- |
+| Crypto   | [Chall](crypto/chall)                                                |
 | Reverse  | [How to defeat a dragon](rev/How%20to%20defeat%20a%20dragon)         |
 | Reverse  | [Warmup](rev/warmup)                                                 |
 | Reverse  | [Tea](rev/tea)                                                       |
