@@ -14,6 +14,7 @@ Challenges for SHELL CTF 2022
 | Forensics | [Audio Chall 1](Forensics/audio%20chall%201)                         | Ayush  |
 | Forensics | [Audio Chall 2](Forensics/audio%20chall%202)                         | Ayush  |
 | Forensics | [Forensics Chall 1](Forensics/forensics%20chall%201)                 | Ayush  |
+| OSINT     | [Blume1:The CTOS](OSINT/Blume1:The CTOS)                             | Rohan  |
 | Forensics | [Forensics Chall 2](Forensics/forensics%20chall%202)                 | Ayush  |
 | Pwn       | [Chall 1](pwn/chall1)                                                | Hamzah |
 | Reverse   | [How to defeat a dragon](rev/How%20to%20defeat%20a%20dragon)         | Rohan  |
@@ -21,4 +22,5 @@ Challenges for SHELL CTF 2022
 | Reverse   | [Tea](rev/tea)                                                       | Hamzah |
 | Reverse   | [Swift](rev/swift)                                                   | Hamzah |
 | Web       | [Color Cookie](web/Color%20Cookie)                                   | Sahil  |
-| Web       | [Command Injection](web/Command%20Injection)                         | Sahil  |
+| Web       | [Injection Base](web/Injection_Base)                                 | Sahil  |
+| Web       | [Injection Base 2](web/Injection_Base2)                              | Sahil  |
