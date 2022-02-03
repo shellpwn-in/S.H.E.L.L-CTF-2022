@@ -10,5 +10,5 @@ Challenges for SHELL CTF 2022
 | Reverse  | [Warmup](rev/warmup)                                                 |
 | Reverse  | [Tea](rev/tea)                                                       |
 | Reverse  | [Swift](rev/swift)                                                   |
-| Web      | [Color Cookie](web/'Color Cookie')                                   |
-| Web      | [Command Injection](web/'Command Injection')                         |
+| Web      | [Color Cookie](web/'Color%20Cookie')                                   |
+| Web      | [Command Injection](web/'Command%20Injection')                         |
