@@ -15,6 +15,7 @@ Challenges for SHELL CTF 2022
 | Forensics | [Audio Chall 2](Forensics/audio%20/chall/%202)                       | Ayush  |
 | Forensics | [Forensics Chall 1](Forensics/forensics%20/chall/%201)               | Ayush  |
 | Forensics | [Forensics Chall 2](Forensics/forensics%20/chall/%202)               | Ayush  |
+| Pwn       | [Chall 1](pwn/chall1)                                                | Hamzah |
 | Reverse   | [How to defeat a dragon](rev/How%20to%20defeat%20a%20dragon)         | Rohan  |
 | Reverse   | [Warmup](rev/warmup)                                                 | Hamzah |
 | Reverse   | [Tea](rev/tea)                                                       | Hamzah |
