@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int check(char *string)
+int check(char* string)
 {
     int res = 0;
     char buffer[16];
