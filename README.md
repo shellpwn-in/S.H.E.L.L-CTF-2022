@@ -2,7 +2,7 @@
 
 Challenges for SHELL CTF 2022
 
-# Index
+## Index
 
 | Category  | Challenge                                                            | Author | 
 | --------- | -------------------------------------------------------------------- |------- |
