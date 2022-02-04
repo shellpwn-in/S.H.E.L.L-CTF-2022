@@ -3,5 +3,5 @@ System(ctOS),A Compute Software to have centralised control over Subway lines,
 Traffic Lights,Survillence cameras and power grids.It's a huge privacy violation.
 WE ARE DEDSEC!,and we want to stop this,The company's CTO Dušan Nemec,hosted a 
 private party to discuss about ctOS,one of our member infiltrated the party and
-sent us a picture before we got disconnected.Can you help us find out which place is this?
+sent us a picture before we got disconnected.Can you help us find out what does this mean?
 
