@@ -22,7 +22,7 @@ void addSugar()
             strncat(odd, &pwd[i], 1);
     }
 
-    char *join = odd;
+    char* join = odd;
     strncat(join, even, 17);
     
     strcpy(pwd,join);
@@ -64,7 +64,7 @@ void addMilk()
         strncat(c, &pwd[i], 1);
         i += 1;
     }
-    char *join = c;
+    char* join = c;
     strncat(join, a, strlen(a));
     strncat(join, b, strlen(b));
     
