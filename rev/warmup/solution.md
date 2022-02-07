@@ -1,3 +1,5 @@
+# Solution
+    
 Using IDA, the decompiler output is:
 ```c
 int __cdecl main(int argc, const char **argv, const char **envp)
