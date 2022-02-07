@@ -64,7 +64,7 @@ double __fastcall func(int a1)
 }
 ```
 Mathematically put, this is 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{x^2}{2!} + \frac{x^3}{3!} + ...">
+<img src="https://render.githubusercontent.com/render/math?math=1+x+\frac{x^2}{2!}+\frac{x^3}{3!} + ...">
 which is the Taylor series function for
 <img src="https://render.githubusercontent.com/render/math?math=e^x">
 The name of the chall, swift, is a hint towards the use of Taylor series in the chall.
