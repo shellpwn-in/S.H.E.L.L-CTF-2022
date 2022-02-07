@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(34, 34, 34);
+    font-family: 'Times New Roman', Times, serif  ;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  #img{
+    align-items: center;
+    justify-content: center;
+  }
