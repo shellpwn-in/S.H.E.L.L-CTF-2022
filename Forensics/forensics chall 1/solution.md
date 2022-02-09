@@ -1,0 +1,1 @@
+Indeed a simple challange just select the hidden text above the rickroll
