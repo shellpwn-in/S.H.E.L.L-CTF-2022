@@ -1,7 +1,7 @@
 # Solution
 Upon executing the binary we get the following output:
 
-```bash 
+```
 alright here you go: 
 wbppcugz{F4zp0i5_w3l1p5_sW_4_xHhO7j0r}
 wait, do you not want to know the key?
