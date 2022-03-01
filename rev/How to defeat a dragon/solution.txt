@@ -1,0 +1,6 @@
+#1 open the file with ghidra or any other reversing tool.
+#2 see the source code.
+#3 The passcode for the file will be given.
+#4 Run the code and enter the password
+#5 The flag you got is not the flag,you can to convert the hexadecimal into text.
+#6 The flag will be SHELLCTF{15_R3v3r51ng_34sy?}
