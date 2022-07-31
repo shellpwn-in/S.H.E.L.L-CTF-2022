@@ -1,0 +1,3 @@
+Translate the characters with the image.
+
+SHELLCTF{W4kandA_F0rev3r}
