@@ -1,3 +1,16 @@
 # More ILLUSION
 
-If you still not illuded, here is another potion of illusion for you. Can you survive it ?????
+If you still not illuded, here is another potion of illusion for you.  Can you survive it ?????
+
+Flag format :-
+enclose entire thing in shellctf{}
+- A - Thing you got after solving problem
+- B - Linux command (not entire command but specific one command that lead you to solution, ex- "cd .. ; ls -la" was command that showed me thing which lead me to flag then special command is "ls" and argument is "ls")
+- C,D,.. - Numbers of arguments use with Linux command (there can be more than one arguments)
+
+Example flag -
+- Suppose I got string "H3re_1s_F1ag" from solving so my A = H3re_1s_F1ag
+- Suppose I used Linux command "ls" to get string A so my B = ls
+- Suppose arguments used were "-la" (ie the special command that help me to get flag was "ls -la") so my C = la
+
+So my flag will become :- shellctf(H3re_1s_F1ag_ls_la)
