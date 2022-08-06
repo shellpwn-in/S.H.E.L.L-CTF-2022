@@ -21,16 +21,15 @@ Now finding flag in these many files manually is alot labour work for which we a
 - Best way to seperate real from fakes is to check size.
 - Searching for valid function would lead you to function name du in linux
 - There are certain arguments what would make it easier for us to find it which are --apparent-size and -ah
-- So entire finding size command becomes :- 
--- du --apparent-size -ah (actually its dduu --apparent-size -ah to work beacame there is filter which removes du from input)
+- So entire finding size command becomes :- du --apparent-size -ah (actually its dduu --apparent-size -ah to work beacame there is filter which removes du from input)
 
-So command to get sizes is :-
+So command to get sizes of all files is :-
 - ccdd .... ; dduu --apparent-size -ah
 
-Now next part to observe is size
-Let's understand it with example with /flag=/flag/flag/flag/flag/flag.txt
+Now next part to observe is size difference in real and decoy flag.
+Let's understand it with one of decoy /flag=/flag/flag/flag/flag/flag.txt
 
-- 23k    - /flag=/flag/flag/flag/flag/flag.txt
+- 23k    - /flag=/flag/flag/flag/flag/flag.txt                 (fake flag file)
 - 4.1k   - /flag=/flag/flag/flag/flag
 - 8.1K   - /flag=/flag/flag/flag
 - 13K    - /flag=/flag/flag
@@ -39,7 +38,7 @@ Let's understand it with example with /flag=/flag/flag/flag/flag/flag.txt
 
 So this is how fake looks.
 Real flag just vary at one point that is :-
-- 38k    - /flag-------------/flag/flag/flag/flag/flag.txt
+- 38k    - /flag-------------/flag/flag/flag/flag/flag.txt     (real flag file)
 - 4.1k   - /flag-------------/flag/flag/flag/flag
 - 8.1K   - /flag-------------/flag/flag/flag
 - 13K    - /flag-------------/flag/flag
