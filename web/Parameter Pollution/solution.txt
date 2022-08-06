@@ -1,0 +1,13 @@
+User-Agent: Vinod
+Date: Mon, 07 Feb 2022 10:25:09 GMT
+77686f616d5f695f616d=41646d696e   (Ascci hex)
+
+Luc4r10   (password)
+
+https://drive.google.com/file/d/1NllVrmrHdLHRgX6sV539L1ZzbnRGCvdr/view?usp=sharing
+aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTmxsVnJtckhkTEhSZ1g2c1Y1MzlMMVp6Ym5SR0N2ZHIvdmlldz91c3A9c2hhcmluZw  (Base 64)
+
+Tool to extract - https://stylesuxx.github.io/steganography/
+
+Flag:-
+shellctf{USSERAGENT_p4raM37eR_P0llu7iOn}
