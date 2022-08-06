@@ -13,4 +13,4 @@ Example flag -
 - Suppose I used Linux command "ls" to get string A so my B = ls
 - Suppose arguments used were "-la" (ie the special command that help me to get flag was "ls -la") so my C = la
 
-So my flag will become :- shellctf(H3re_1s_F1ag_ls_la)
+So my flag will become :- shellctf{H3re_1s_F1ag_ls_la}
