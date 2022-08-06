@@ -21,7 +21,11 @@ Now finding flag in these many files manually is alot labour work for which we a
 - Best way to seperate real from fakes is to check size.
 - Searching for valid function would lead you to function name du in linux
 - There are certain arguments what would make it easier for us to find it which are --apparent-size and -ah
-- So entire finding size command becomes :- du --apparent-size -ah (actually its dduu --apparent-size -ah to work beacame there is filter which removes du from input)
+- So entire finding size command becomes :- 
+-- du --apparent-size -ah (actually its dduu --apparent-size -ah to work beacame there is filter which removes du from input)
+
+So command to get sizes is :-
+- ccdd .... ; dduu --apparent-size -ah
 
 Now next part to observe is size
 Let's understand it with example with /flag=/flag/flag/flag/flag/flag.txt
