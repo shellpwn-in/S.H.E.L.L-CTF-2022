@@ -1,1 +1,0 @@
-SHELLCTF{R4ym0nd_k3nny}
