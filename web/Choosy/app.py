@@ -20,4 +20,4 @@ def result():
     return render_template('results.html',user_input=user_input,user_input_temp=user_input_temp)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
