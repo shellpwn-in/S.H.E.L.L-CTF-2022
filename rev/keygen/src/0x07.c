@@ -35,6 +35,8 @@ char *str = (char *)malloc(sizeof(char)*size);
 return str;
 }   
 
+//SHELLCTF{k3ygen_1s_c0oL}
+
 int main(int argc,char *argv[]){
 	if(argc==2){
 		printf("Checking license: %s\n",argv[1]);
@@ -49,7 +51,7 @@ int main(int argc,char *argv[]){
 
 
 	else{
-			printf("Usage: ./0x07 <key>\n");
+			printf("Usage: ./keygen <key>\n");
 		}		
 
 		return 0;	}
