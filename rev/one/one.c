@@ -1,67 +1,58 @@
 #include <stdio.h>
 #include <string.h>
 
+// shellctf{s0Me_b4S3_c0nVer51on5_4_U}
 int main()
 {
-    char flag[] = "shellctf{s0Me_b4S3_c0nVer51on5_4_U}";
+    char flag[38];
+    scanf("%s", flag);
 
-    char binary[400];
-    int index = 0;
+    char binary[300];
+    int binlen = 0;
     
     for (int i = 0; i < strlen(flag); i++)
     {
         int n = flag[i];
         while (n > 0)    
         {    
-            binary[index] = '0' + n % 2;    
+            binary[binlen] = '0' + n % 2;    
             n = n / 2;
-            index++;
-        }    
+            binlen++;
+        }
+
+        while (binlen % 8 != 0)
+        {
+            binary[binlen] = '0';
+            binlen++;
+        }
+
     }
-    binary[index] = '\0';
-    printf("%d\n", index);
-    for (int i = 0; i < index; i++)
-    {
-        printf("%d ", binary[i]);
-    }
-    printf("\n%d\n", strlen(binary));
+    binary[binlen] = '\0';
 
     int k = 2;
 
-    char hex[400] = "";
+    char hex[300] = "";
     int hexlen = 0;
-    for (int i = 0; i < index;)
+    for (int i = 0; i < binlen;)
     {
         char num[10] = "";
         int size = 0;
-        for (int j = 0; j < k && (i + j) < index; j++)
+        for (int j = 0; j < k && (i + j) < binlen; j++)
         {
             num[j] = binary[i + j];
-            //num[j + 1] = '\0';
-            //printf("%c", num[j]);
             size++;
         }
 
-        //num[size] = '\0';
-        //printf("%s\n", num);
-        //if (strcmp(num, "0") == 0)
-        //    printf("SOMETHING WORKS\n");
-        //for (int z = 0; z < size; z++)
-        //    printf("%c", num[z]);
-        //printf("\n");
-        
         if (size == 1)
         {
-            //printf("here0\n");
             if (strcmp(num, "0") == 0)
                 hex[hexlen] = 'a';
             else if (strcmp(num, "1") == 0)
                 hex[hexlen] = 'b';
-            i += 1;
+            
         }
         else if (size == 2)
         {
-            //printf("here1\n");
             if (strcmp(num, "00") == 0)
                 hex[hexlen] = 'c';
             else if (strcmp(num, "01") == 0)
@@ -70,11 +61,10 @@ int main()
                 hex[hexlen] = 'e';
             else if (strcmp(num, "11") == 0)
                 hex[hexlen] = 'f';
-            i += 2;
+            
         }
         else if (size == 3)
         {
-            //printf("here2\n");
             if (strcmp(num, "000") == 0)
                 hex[hexlen] = '1';
             else if (strcmp(num, "001") == 0)
@@ -91,15 +81,14 @@ int main()
                 hex[hexlen] = '7';
             else if (strcmp(num, "111") == 0)
                 hex[hexlen] = '8';
-            i += 3;
+            
         }
         else
         {
-            //printf("here3\n");
             hex[hexlen] = '9';
         }
 
-        //printf("%s\n", hex);
+        i += size;
         hexlen++;
         k = (k + 1) % 4;
     }
@@ -120,8 +109,20 @@ int main()
         else
             num += (hex[i] - 'a') * 16;
         output[outlen] = num;
-        printf("%d ", num);
+        outlen++;
     }
-    printf("\n");
+
+    
+        int check[] = {82, 145, 65, 145, 54, 144, 68, 144, 39, 145, 66, 145, 54, 145, 36, 144, 38, 145, 68, 144, 54, 145, 56, 144, 82, 145, 65, 144, 82, 144, 82, 144, 69, 145, 72, 145, 69, 145, 36, 144, 38, 145, 39, 144, 70, 145, 39, 144, 88, 144, 71, 144, 53, 144, 39, 144, 55, 145, 68, 144, 70, 144, 68, 144, 50, 145, 70, 144, 82, 144, 39, 144, 87, 145, 68, 145, 54, 144, 71, 144, 88, 144, 66, 144, 82, 145, 86, 144, 70, 144, 70, 145, 84};
+
+        int checkNum = 0;
+    for (int i = 0; i < 79; i++)
+        if (check[i] == output[i])
+            checkNum++;
+
+    if (checkNum == 79)
+        printf("you're good at this!\n");
+    else
+        printf("nope, that's not it.\n");
     
 }
