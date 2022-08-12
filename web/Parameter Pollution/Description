@@ -5,5 +5,3 @@ Day By Day Pollution is increasing, passing polluted environment and sum of all 
 Flag Format :-
 Enclose everything in shellctf{}
 Flag have two part :- shellctf{part1part2}
-Part1 starts with :- US
-Part2 starts with :- _p
