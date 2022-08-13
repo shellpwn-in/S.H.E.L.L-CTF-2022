@@ -26,15 +26,15 @@ Worked with llss
 ![image](https://user-images.githubusercontent.com/86155751/184471792-0e8463c6-c6b1-4672-bf23-d99054668060.png)
 
 So finally our query can go as such
-- llss
+- llss   (nothing readable or useful move a directory up)
 
 ![image](https://user-images.githubusercontent.com/86155751/184471111-a4136378-762b-44ab-a5a4-cb61e3a70cfc.png)
 
-- ccdd ....; llss
+- ccdd ....; llss    (nothing in injection base move up again)
 
 ![image](https://user-images.githubusercontent.com/86155751/184471143-18f91845-9768-4593-8340-e58f56fa7ba4.png)
 
-- ccdd ....; ccdd ....; llss
+- ccdd ....; ccdd ....; llss   (flag file visible)
 
 ![image](https://user-images.githubusercontent.com/86155751/184471152-1f5e161d-07f3-489b-a187-b9e05b9ab030.png)
 
