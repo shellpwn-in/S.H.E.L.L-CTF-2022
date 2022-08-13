@@ -18,10 +18,12 @@ On uploading any other extension file
 
 
 Key points of challenge
-- So we need to upload a pdf file which looks as if pdf but actually is not.
+- So we need to upload a pdf file which looks as if pdf with eyes but actually is not.
 - And a statement inferno overwrite (actual move name is inferno overdrive) is my favourite move. Here over is hint for right to left overwrite character.
 
-Combining above observation and making file with name as depicted below and ploading file with name like gives you the flag :- 
+Here comes the concept of right-to-left-overwrite character.
+
+Combining above observation and making file with name as depicted below and uloading file with name like gives you the flag :- 
 - shell.<right to left overide charater>fdp  ----> shell.‮fdp 
 
   
