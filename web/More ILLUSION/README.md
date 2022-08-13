@@ -1,6 +1,6 @@
 # More ILLUSION
 
-By the name it suggests that its sequel of ILLUSION.
+By the name it suggests that its sequel of ILLUSION. Testing for previous filters they are applied here also. 
 
 Going on URL renders same page as ILLUSION one -
 ![image](https://user-images.githubusercontent.com/86155751/183234961-d12abafe-3e56-4718-ba02-a03169dcc713.png)
