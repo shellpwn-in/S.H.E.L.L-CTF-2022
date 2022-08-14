@@ -2,7 +2,7 @@
 #include <string.h>
 
 // shellctf{T0_1nfiNi7y_4nD_B3y0nd}
-char pwd[33] = "";
+char pwd[50] = "";
 
 void boilWater()
 {
@@ -49,12 +49,12 @@ void addMilk()
     int i = 0;
 
     char a[33] = "", b[33] = "", c[33] = "";
-    while (pwd[i] != '5')
+    while (pwd[i] != '5' && i < strlen(pwd))
     {
         strncat(a, &pwd[i], 1);
         i += 1;
     }
-    while (pwd[i] != 'R')
+    while (pwd[i] != 'R' && i < strlen(pwd))
     {
         strncat(b, &pwd[i], 1);
         i += 1;

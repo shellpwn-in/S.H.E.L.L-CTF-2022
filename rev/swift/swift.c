@@ -35,5 +35,5 @@ int main()
 {
     char flag[39] = "wbppcugz{F4zp0i5_w3l1p5_sW_4_xHhO7j0r}";
     printf("%s\n%s\n%s\n", "alright here you go: ", flag, "wait, do you not want to know the key?");
-    //encrypt("EULERSNUMBER");
+    encrypt("EULERSNUMBER");
 }
