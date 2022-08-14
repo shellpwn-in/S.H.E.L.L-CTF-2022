@@ -8,8 +8,7 @@ def xor(msg, key):
  
 with open('encrypted', 'r') as f:
     msg = ''.join(f.readlines())
- 
-# Phase 1 - Find part of key
+
 part_of_msg = 'SHELL{'
  
 for i in range(len(msg)):
