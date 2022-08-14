@@ -1,7 +1,7 @@
 # World's Greatest Detective.
 
 It was a easy misc challenge where we were given a image and we had to decode it .
-![image]((https://user-images.githubusercontent.com/S-H-E-L-L/S.H.E.L.L-CTF-2022/main/Misc/World's%20Greatest%20Detective/Solution/autrmwusmky61.jpg)
+![image](https://user-images.githubusercontent.com/S-H-E-L-L/S.H.E.L.L-CTF-2022/main/Misc/World's%20Greatest%20Detective/Solution/autrmwusmky61.jpg)
 
 So some people thought that it was some kind of cipher,but if you have watched Marvel's Black Panther you may know that it's not really a cipher but a wakandian language .
 
