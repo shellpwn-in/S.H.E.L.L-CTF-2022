@@ -21,7 +21,7 @@ Challenges for SHELL CTF 2022
 | Reverse   | [Warmup](rev/warmup)                                                 | Hamzah |
 | Reverse   | [Tea](rev/tea)                                                       | Hamzah |
 | Reverse   | [Swift](rev/swift)                                                   | Hamzah |
-| Web       | [Color Cookie](web/Color%20Cookie)                                   | Sahil  |
+| Web       | [Colour Cookie](web/Colour%20Cookie)                                 | Sahil  |
 | Web       | [ILLUSION](web/ILLUSION)                                             | Sahil  |
 | Web       | [More ILLUSION](web/More%20ILLUSION)                                 | Sahil  |
 | Web       | [Choosy](web/Choosy)                                                 | Sahil  |
