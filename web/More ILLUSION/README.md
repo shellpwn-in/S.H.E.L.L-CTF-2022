@@ -68,3 +68,7 @@ Final query to get the flag is
 As per given flag format flag will be shellctf{got from file_linux function_argument 1_argument 2_..}
 shellctf{H0p3_4ny0N3_No7_n071c3_SiZe_D1fF3reNc3_du_apparent-size_ah}
 
+
+Hints with point values (cost) :-
+- Hint 1 :- Look for documentation of special comand.  (30 pts)
+- Hint 2 :- Look for documentation of du linux command.  (70 pts)
