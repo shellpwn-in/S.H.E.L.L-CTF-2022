@@ -72,7 +72,7 @@ Hints with point values (cost) :-
 - Hint 1 :- Can you find hidden secret in ultimate stage and unlock it. (10 pts)
 - Hint 2 :- There are three stages (4 different pages till end) in problem which continue till you reach ultimate level , each stage give you some thing useful now or latter..  (50 pts)
 - Hint 3 :- Some need stuff for different stages  (50 pts)
--- Vinod  
+-- Vinod
 -- Date
 -- Cookie and some brainf***
 -- Stego for ultimate level
