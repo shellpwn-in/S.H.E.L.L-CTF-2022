@@ -66,7 +66,7 @@ undefined8 main(int param_1,long param_2)
   return 0;
 }
 ```
-So if i explain it directly,the binary will check if the sum of characters of the license is equal to `0x312==786 in hex`.If it's same then it will print the flag.so i wrote a ![Python]() Script to list all the license key whose character sum is 786.
+So if i explain it directly,the binary will check if the sum of characters of the license is equal to `0x312==786 in hex`.If it's same then it will print the flag.so i wrote a ![Python](https://github.com/S-H-E-L-L/S.H.E.L.L-CTF-2022/blob/main/rev/keygen/Solution/solution.py) Script to list all the license key whose character sum is 786.
 ```
 $ python3 solution.py 
 Found valid key: mPugVhmN
@@ -112,7 +112,6 @@ Access Granted!:SHELLCTF{k3ygen_1s_c0oL}
 ```
 
 So our flag is : `SHELLCTF{k3ygen_1s_c0oL}`
-
 
 This was the intended solution for keygen,there are also another way to solve the challenge by opening the getstring function where the flag was stored.
 
