@@ -6,7 +6,7 @@ Challenges for SHELL CTF 2022
 
 | Category  | Challenge                                                            | Author | 
 | --------- | -------------------------------------------------------------------- |------- |
-| Crypto    | [Tweeeet](crypto/Tweeeet)                                            | Sakshi |
+| Crypto    | [Tweeeeet](crypto/Tweeeeet)                                          | Sakshi |
 | Crypto    | [Tring Tring](crypto/Tring%20Tring)                                  | Sakshi |
 | Crypto    | [MALBORNE](crypto/MALBORNE)                                          | Sakshi |
 | Crypto    | [OX9OR2](crypto/OX9OR2)                                              | Sakshi |
