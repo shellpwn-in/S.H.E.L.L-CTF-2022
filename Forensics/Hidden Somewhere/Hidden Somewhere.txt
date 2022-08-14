@@ -1,0 +1,15 @@
+As the challenge name suggests there are some files hidden in the image you can use steg hide to extract the files. 
+
+The password for steg hide is in the exif of the image you can use exif tool to view that.
+you will now get 3 files
+ 
+1.flag.zip which is password locked zip file.
+2.An Image containing a QR Code
+3.An PDF file
+
+First the image containing the QR Code is basically a rick roll sorry for that
+Now the pdf file is interesting it contains the password for the zip file basically the password for the zip file is in the plain sight you just have to select all the text by ctrl + a and paste it somewhere else at the bottom you will see the password
+
+Use the password to extract the flag from the zip file.
+
+
