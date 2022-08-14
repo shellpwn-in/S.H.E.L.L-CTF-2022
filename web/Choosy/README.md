@@ -14,5 +14,5 @@ And we get the flag in XSS pop-up
 ![image](https://user-images.githubusercontent.com/86155751/183240311-779f4c5a-7720-49a6-9e22-dbdf1ae4da8e.png)
 
 Hints with point values :-
-Hint 1 :- imgage payloads are very well than script tag payloads.
+- Hint 1 :- imgage payloads are very well than script tag payloads.
 
