@@ -36,3 +36,6 @@ Uploading file with name formulated as above
 
 Hints with point values (cost) :-
 - Hint 1 :- Everything is just related to **name and extension** of file not content in file ... (20 pts)
+- Hint 2 :- Think from right to left  (30 pts)
+- Hint 3 :- Give me file with name while when seen from eyes look like abc.pdf but its not actually pdf  (50 pts)
+- Hint 4 :- Make file name "abc.fdp" look "abc.pdf"  (70 pts)
