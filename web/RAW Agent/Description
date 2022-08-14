@@ -2,6 +2,8 @@
 
 Day By Day Pollution is increasing, passing polluted environment and sum of all generation till now will take you to ultimate end.
 
-Flag Format :-
-Enclose everything in shellctf{}
-Flag have two part :- shellctf{part1part2}
+Flag Format :- Enclose everything in shellctf{} Flag have two part :- shellctf{part1part2}
+
+Part 1 start with :- U
+
+Part 2 start with :- _p
