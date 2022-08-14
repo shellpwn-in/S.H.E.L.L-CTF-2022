@@ -16,8 +16,6 @@ Challenges for SHELL CTF 2022
 | Forensics | [Secret Document](Forensics/Secret%20Document)                       | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
 | Forensics | [Hidden File](Forensics/Hidden%20File)                               | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
 | Forensics | [Heaven](Forensics/Heaven)                                           | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
-| OSINT     | [Blume1:The CTOS](OSINT/Blume1:The%20CTOS)                           | Rohan  |
-| Pwn       | [Chall 1](pwn/chall1)                                                | Hamzah |
 | Reverse   | [How to defeat a dragon](rev/How%20to%20defeat%20a%20dragon)         | Rohan  |
 | Reverse   | [Warmup](rev/warmup)                                                 | Hamzah |
 | Reverse   | [Tea](rev/tea)                                                       | Hamzah |
