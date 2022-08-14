@@ -25,5 +25,8 @@ Modifying the URl as
 And we get the flag
 ![image](https://user-images.githubusercontent.com/86155751/183230199-b5fc8332-6811-4084-8a93-faff1b07f0e8.png)
 
+Hints with point values (cost) :-
+- Hint 1 :- The key is finding and value is the favourite thing....
+
 
 

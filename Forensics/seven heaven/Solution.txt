@@ -1,0 +1,1 @@
+As the challenge description suggests the Data is hidden in the 7th bit planes of RGB of the image to help you can use steg solve to solve the challenge.

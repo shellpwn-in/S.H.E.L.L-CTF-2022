@@ -40,3 +40,11 @@ So finally our query can go as such
 
 And final query goes like below to get flag
 - ccdd ....; ccdd ....; cat flag.txt
+
+
+Hints with point values (cost) :-
+- Hint 1 :- "aabcbc".replace("abc","") = abc  (50 pts)
+- Hint 2 :- (100 pts)
+-- ls is replaced by NULL
+-- cd is replaced by NULL
+-- d ..  is replaced by d

@@ -3,3 +3,6 @@
 Single solution doesn't works on all problems. One should try different solutions for different problem.
 
 Flag format:- shellctf{H3re_1s_tH3_F14g}
+
+Points Hints :-
+Hint 1 - imgage payloads are very well than script tag payloads.

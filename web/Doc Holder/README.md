@@ -19,7 +19,9 @@ On uploading any other extension file
 
 Key points of challenge
 - So we need to upload a pdf file which looks as if pdf with eyes but actually is not.
-- And a statement inferno overwrite (actual move name is inferno overdrive) is my favourite move. Here over is hint for right to left overwrite character.
+- And a statement inferno overwrite (actual move name is inferno overdrive) is my favourite move. Here over is hint for some overwrite character and hint 1 says about look from right to left.
+
+Also making a file name with .pdf end which not actually ending in .pdf means we need something just to illude/change how it looks to user. Searching obfuscation techniques leads to rtlo which matches with description and hints.
 
 Here comes the concept of right-to-left-overwrite character.
 
@@ -32,4 +34,8 @@ Uploading file with name formulated as above
   
 ![image](https://user-images.githubusercontent.com/86155751/183244897-34e8a396-88a3-4405-ae9c-56c00a7b033b.png)
 
-
+Hints with point values (cost) :-
+- Hint 1 :- Everything is just related to **name and extension** of file not content in file ... (20 pts)
+- Hint 2 :- Think from right to left  (30 pts)
+- Hint 3 :- Give me file with name while when seen from eyes look like abc.pdf but its not actually pdf  (50 pts)
+- Hint 4 :- Make file name "abc.fdp" look "abc.pdf"  (70 pts)
