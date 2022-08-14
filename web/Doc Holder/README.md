@@ -34,4 +34,5 @@ Uploading file with name formulated as above
   
 ![image](https://user-images.githubusercontent.com/86155751/183244897-34e8a396-88a3-4405-ae9c-56c00a7b033b.png)
 
-
+Hints with point values (cost) :-
+- Hint 1 :- Everything is just related to **name and extension** of file not content in file ... (20 pts)
