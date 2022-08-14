@@ -12,7 +12,7 @@ Challenges for SHELL CTF 2022
 | Crypto    | [OX9OR2](crypto/OX9OR2)                                              | Sakshi |
 | Crypto    | [Feel Me](crypto/Feel%20Me)                                          | Sakshi |
 | Forensics | [Audio Chall 1](Forensics/audio%20chall%201)                         | Ayush  |
-| Forensics | [Audio Chall 2](Forensics/audio%20chall%202)                         | Ayush  |
+| Forensics | [Alien Communication](Forensics/Alien%20Communication)               | Ayush  |
 | Forensics | [Forensics Chall 1](Forensics/forensics%20chall%201)                 | Ayush  |
 | Forensics | [Forensics Chall 2](Forensics/forensics%20chall%202)                 | Ayush  |
 | OSINT     | [Blume1:The CTOS](OSINT/Blume1:The%20CTOS)                           | Rohan  |
