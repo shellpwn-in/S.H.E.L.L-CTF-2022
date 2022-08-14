@@ -27,5 +27,6 @@ Challenges for SHELL CTF 2022
 | Web       | [Choosy](web/Choosy)                                                 | Sahil  |
 | Web       | [RAW Agent](web/RAW%20Agent)                                         | Sahil  |
 | Web       | [Doc Holder](web/Doc%20Holder)                                       | Sahil  |
+| Web       | [Extractor](web/Extractor)                                           | Sahil  |
 
 
