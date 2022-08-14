@@ -22,12 +22,12 @@ Challenges for SHELL CTF 2022
 | Reverse   | [Warmup](rev/warmup)                                                 | Hamzah |
 | Reverse   | [Tea](rev/tea)                                                       | Hamzah |
 | Reverse   | [Swift](rev/swift)                                                   | Hamzah |
-| Web       | [Colour Cookie](web/Colour%20Cookie)                                 | Sahil  |
-| Web       | [ILLUSION](web/ILLUSION)                                             | Sahil  |
-| Web       | [More ILLUSION](web/More%20ILLUSION)                                 | Sahil  |
-| Web       | [Choosy](web/Choosy)                                                 | Sahil  |
-| Web       | [RAW Agent](web/RAW%20Agent)                                         | Sahil  |
-| Web       | [Doc Holder](web/Doc%20Holder)                                       | Sahil  |
-| Web       | [Extractor](web/Extractor)                                           | Sahil  |
+| Web       | [Colour Cookie](web/Colour%20Cookie)                                 | [Sahil](https://www.linkedin.com/in/sahil-dharme-096114220/)  |
+| Web       | [ILLUSION](web/ILLUSION)                                             | [Sahil](https://www.linkedin.com/in/sahil-dharme-096114220/)  |
+| Web       | [More ILLUSION](web/More%20ILLUSION)                                 | [Sahil](https://www.linkedin.com/in/sahil-dharme-096114220/)  |
+| Web       | [Choosy](web/Choosy)                                                 | [Sahil](https://www.linkedin.com/in/sahil-dharme-096114220/)  |
+| Web       | [RAW Agent](web/RAW%20Agent)                                         | [Sahil](https://www.linkedin.com/in/sahil-dharme-096114220/)  |
+| Web       | [Doc Holder](web/Doc%20Holder)                                       | [Sahil](https://www.linkedin.com/in/sahil-dharme-096114220/)  |
+| Web       | [Extractor](web/Extractor)                                           | [Sahil](https://www.linkedin.com/in/sahil-dharme-096114220/)  |
 
 
