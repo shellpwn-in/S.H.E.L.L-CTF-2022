@@ -75,6 +75,6 @@ We got the flag finally :- shellctf{Sql_1Nj3c7i0n_B45iC_XD}
 
 Hints with point values (cost) :-
 - Hint 1 :--- A sample query :-username' union select 1,sqlite_version(),3,4;-- (50 pts)
-- Hint 1 :--- Look in Admins table with username Adminnn  (70 pts)
+- Hint 2 :--- Look in Admins table with username Adminnn  (70 pts)
 
 
