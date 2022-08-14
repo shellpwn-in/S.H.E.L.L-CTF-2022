@@ -9,7 +9,7 @@ $ ./keygen givemetheflag
 Checking license: givemetheflag
 Wrong!!!
 ```
-so if we a strings command to print the printable characters
+so if we use strings command to print the printable characters,
 
 ```
 /lib64/ld-linux-x86-64.so.2
@@ -113,5 +113,5 @@ Access Granted!:SHELLCTF{k3ygen_1s_c0oL}
 
 So our flag is : `SHELLCTF{k3ygen_1s_c0oL}`
 
-This was the intended solution for keygen,there are also another way to solve the challenge by opening the getstring function where the flag was stored.
+This was the intended solution for keygen,there is also another way to solve the challenge by opening the getstring function where the flag was stored.
 
