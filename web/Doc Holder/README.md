@@ -19,7 +19,9 @@ On uploading any other extension file
 
 Key points of challenge
 - So we need to upload a pdf file which looks as if pdf with eyes but actually is not.
-- And a statement inferno overwrite (actual move name is inferno overdrive) is my favourite move. Here over is hint for right to left overwrite character.
+- And a statement inferno overwrite (actual move name is inferno overdrive) is my favourite move. Here over is hint for some overwrite character and hint 1 says about look from right to left.
+
+Also making a file name with .pdf end which not actually ending in .pdf means we need something just to illude/change how it looks to user. Searching obfuscation techniques leads to rtlo which matches with description and hints.
 
 Here comes the concept of right-to-left-overwrite character.
 
