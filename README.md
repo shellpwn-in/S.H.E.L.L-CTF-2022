@@ -13,8 +13,9 @@ Challenges for SHELL CTF 2022
 | Crypto    | [Feel Me](crypto/Feel%20Me)                                          | Sakshi |
 | Forensics | [Go deep!](Forensics/Go%20deep!)                                     | Ayush  |
 | Forensics | [Alien Communication](Forensics/Alien%20Communication)               | Ayush  |
-| Forensics | [Forensics Chall 1](Forensics/forensics%20chall%201)                 | Ayush  |
-| Forensics | [Forensics Chall 2](Forensics/forensics%20chall%202)                 | Ayush  |
+| Forensics | [Secret Document](Forensics/Secret%20Document)                       | Ayush  |
+| Forensics | [Hidden File](Forensics/Hidden%20File)                               | Ayush  |
+| Forensics | [Heaven](Forensics/Heaven)                                           | Ayush  |
 | OSINT     | [Blume1:The CTOS](OSINT/Blume1:The%20CTOS)                           | Rohan  |
 | Pwn       | [Chall 1](pwn/chall1)                                                | Hamzah |
 | Reverse   | [How to defeat a dragon](rev/How%20to%20defeat%20a%20dragon)         | Rohan  |
