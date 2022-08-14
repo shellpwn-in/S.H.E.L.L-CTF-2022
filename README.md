@@ -22,5 +22,10 @@ Challenges for SHELL CTF 2022
 | Reverse   | [Tea](rev/tea)                                                       | Hamzah |
 | Reverse   | [Swift](rev/swift)                                                   | Hamzah |
 | Web       | [Color Cookie](web/Color%20Cookie)                                   | Sahil  |
-| Web       | [Injection Base](web/Injection_Base)                                 | Sahil  |
-| Web       | [Injection Base 2](web/Injection_Base2)                              | Sahil  |
+| Web       | [ILLUSION](web/ILLUSION)                                             | Sahil  |
+| Web       | [More ILLUSION](web/More%20ILLUSION)                                 | Sahil  |
+| Web       | [Choosy](web/Choosy)                                                 | Sahil  |
+| Web       | [RAW Agent](web/RAW%20Agent)                                         | Sahil  |
+| Web       | [Doc Holder](web/Doc%20Holder)                                       | Sahil  |
+
+
