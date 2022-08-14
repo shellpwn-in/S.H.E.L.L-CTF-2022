@@ -75,6 +75,6 @@ Help us defeat the dragon!! Enter the code:69420
 Yeahh!!,we did it,We defeated the dragon.Thanks for your help here's your reward : SHELLCTF{5348454c4c4354467b31355f523376337235316e675f333473793f7d}
 ```
 Here we entered the code and got the flag but there's a catch,this flag is fake.if you read the description of the challenge there's mention of a term called hexadecimal,so we need to dehex the thing which is under the curly brackets.
-we can either use some online tools or python to dehex this,i will be using ![python]().
+we can either use some online tools or python to dehex this,i will be using ![python](https://github.com/S-H-E-L-L/S.H.E.L.L-CTF-2022/blob/main/rev/How%20to%20defeat%20a%20dragon/Solution/dehex.py).
 
 so the final flag that we got is : `SHELLCTF{15_R3v3r51ng_34sy?}`
