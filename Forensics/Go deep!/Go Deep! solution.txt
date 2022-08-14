@@ -1,0 +1,2 @@
+As the challenge name suggests this Challenge required the use of a specific tool called deep sound enter the file there and using the password in the exif of the file you can extract the flag
+SHELL{y0u_w3r3_7h1nk1ng_R3ally_D33p}
