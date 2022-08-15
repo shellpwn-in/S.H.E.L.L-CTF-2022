@@ -64,6 +64,8 @@ void addMilk()
         strncat(c, &pwd[i], 1);
         i += 1;
     }
+    
+    printf("%s \n%s\n%s\n", a, b, c);
     char* join = c;
     strncat(join, a, strlen(a));
     strncat(join, b, strlen(b));
