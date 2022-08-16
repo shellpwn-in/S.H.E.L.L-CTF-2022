@@ -14,8 +14,8 @@ Challenges for SHELL CTF 2022
 | Forensics | [Go deep!](Forensics/Go%20deep!)                                     | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
 | Forensics | [Alien Communication](Forensics/Alien%20Communication)               | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
 | Forensics | [Secret Document](Forensics/Secret%20Document)                       | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
-| Forensics | [Hidden File](Forensics/Hidden%20File)                               | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
-| Forensics | [Heaven](Forensics/Heaven)                                           | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
+| Forensics | [Hidden somewhere](Forensics/Hidden%20Somewhere)                               | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
+| Forensics | [Heaven](Forensics/Seven%20Heaven)                                           | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
 | Reverse   | [How to defeat a dragon](rev/How%20to%20defeat%20a%20dragon)         | Rohan  |
 | Reverse   | [Warmup](rev/warmup)                                                 | [Hamzah](https://www.linkedin.com/in/ahmedhamzah/) |
 | Reverse   | [Tea](rev/tea)                                                       | [Hamzah](https://www.linkedin.com/in/ahmedhamzah/) |
