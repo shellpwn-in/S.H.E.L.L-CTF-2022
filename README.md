@@ -6,11 +6,11 @@ Challenges for SHELL CTF 2022
 
 | Category  | Challenge                                                            | Author | 
 | --------- | -------------------------------------------------------------------- |------- |
-| Crypto    | [Tweeeeet](crypto/Tweeeeet)                                          | [Sakshi](https://www.linkedin.com/in/ayushvarma1124/) |
-| Crypto    | [Tring Tring](crypto/Tring%20Tring)                                  | [Sakshi](https://www.linkedin.com/in/ayushvarma1124/) |
-| Crypto    | [MALBORNE](crypto/MALBORNE)                                          | [Sakshi](https://www.linkedin.com/in/ayushvarma1124/) |
-| Crypto    | [OX9OR2](crypto/OX9OR2)                                              | [Sakshi](https://www.linkedin.com/in/ayushvarma1124/) |
-| Crypto    | [Feel Me](crypto/Feel%20Me)                                          | [Sakshi](https://www.linkedin.com/in/ayushvarma1124/) |
+| Crypto    | [Tweeeeet](crypto/Tweeeeet)                                          | [Sakshi](https://www.linkedin.com/in/sakshi--giri/) |
+| Crypto    | [Tring Tring](crypto/Tring%20Tring)                                  | [Sakshi](https://www.linkedin.com/in/sakshi--giri/) |
+| Crypto    | [MALBORNE](crypto/MALBORNE)                                          | [Sakshi](https://www.linkedin.com/in/sakshi--giri/) |
+| Crypto    | [OX9OR2](crypto/OX9OR2)                                              | [Sakshi](https://www.linkedin.com/in/sakshi--giri/) |
+| Crypto    | [Feel Me](crypto/Feel%20Me)                                          | [Sakshi](https://www.linkedin.com/in/sakshi--giri/)|
 | Forensics | [Go deep!](Forensics/Go%20deep!)                                     | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
 | Forensics | [Alien Communication](Forensics/Alien%20Communication)               | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
 | Forensics | [Secret Document](Forensics/Secret%20Document)                       | [Ayush](https://www.linkedin.com/in/ayushvarma1124/)  |
